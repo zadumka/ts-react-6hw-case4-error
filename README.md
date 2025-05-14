@@ -1,0 +1,1 @@
+# ts-react-6hw-case4-error
